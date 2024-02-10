@@ -1,0 +1,27 @@
+C:\Users\1816bm\Desktop\SimplePendulum\SimplePendulum\bin\Debug\SimplePendulum.exe.config
+C:\Users\1816bm\Desktop\SimplePendulum\SimplePendulum\bin\Debug\SimplePendulum.exe
+C:\Users\1816bm\Desktop\SimplePendulum\SimplePendulum\bin\Debug\SimplePendulum.pdb
+C:\Users\1816bm\Desktop\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.csprojResolveAssemblyReference.cache
+C:\Users\1816bm\Desktop\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.Form1.resources
+C:\Users\1816bm\Desktop\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.Properties.Resources.resources
+C:\Users\1816bm\Desktop\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.csproj.GenerateResource.Cache
+C:\Users\1816bm\Desktop\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.exe
+C:\Users\1816bm\Desktop\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.pdb
+Z:\cps 1 LAB\finals\SimplePendulum\SimplePendulum\bin\Debug\SimplePendulum.exe.config
+Z:\cps 1 LAB\finals\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.exe
+Z:\cps 1 LAB\finals\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.pdb
+Z:\cps 1 LAB\finals\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.csprojResolveAssemblyReference.cache
+Z:\cps 1 LAB\finals\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.Form1.resources
+Z:\cps 1 LAB\finals\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.Properties.Resources.resources
+Z:\cps 1 LAB\finals\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.csproj.GenerateResource.Cache
+Z:\cps 1 LAB\finals\SimplePendulum\SimplePendulum\bin\Debug\SimplePendulum.exe
+Z:\cps 1 LAB\finals\SimplePendulum\SimplePendulum\bin\Debug\SimplePendulum.pdb
+Z:\Final 7th Codes\CPS\SimplePendulum\SimplePendulum\bin\Debug\SimplePendulum.exe.config
+Z:\Final 7th Codes\CPS\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.exe
+Z:\Final 7th Codes\CPS\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.pdb
+Z:\Final 7th Codes\CPS\SimplePendulum\SimplePendulum\bin\Debug\SimplePendulum.exe
+Z:\Final 7th Codes\CPS\SimplePendulum\SimplePendulum\bin\Debug\SimplePendulum.pdb
+Z:\Final 7th Codes\CPS\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.csprojResolveAssemblyReference.cache
+Z:\Final 7th Codes\CPS\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.Form1.resources
+Z:\Final 7th Codes\CPS\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.Properties.Resources.resources
+Z:\Final 7th Codes\CPS\SimplePendulum\SimplePendulum\obj\Debug\SimplePendulum.csproj.GenerateResource.Cache

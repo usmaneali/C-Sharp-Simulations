@@ -1,0 +1,21 @@
+C:\Users\1816bm\Desktop\MYSimplePendulum\MYSimplePendulum\bin\Debug\MYSimplePendulum.exe.config
+C:\Users\1816bm\Desktop\MYSimplePendulum\MYSimplePendulum\bin\Debug\MYSimplePendulum.exe
+C:\Users\1816bm\Desktop\MYSimplePendulum\MYSimplePendulum\bin\Debug\MYSimplePendulum.pdb
+C:\Users\1816bm\Desktop\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.csprojResolveAssemblyReference.cache
+C:\Users\1816bm\Desktop\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.Form1.resources
+C:\Users\1816bm\Desktop\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.Properties.Resources.resources
+C:\Users\1816bm\Desktop\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.csproj.GenerateResource.Cache
+C:\Users\1816bm\Desktop\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.exe
+C:\Users\1816bm\Desktop\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.pdb
+Z:\cps 1 LAB\finals\MYSimplePendulum\MYSimplePendulum\bin\Debug\MYSimplePendulum.exe.config
+Z:\cps 1 LAB\finals\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.exe
+Z:\cps 1 LAB\finals\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.pdb
+Z:\Final 7th Codes\CPS\MYSimplePendulum\MYSimplePendulum\bin\Debug\MYSimplePendulum.exe.config
+Z:\Final 7th Codes\CPS\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.exe
+Z:\Final 7th Codes\CPS\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.pdb
+Z:\Final 7th Codes\CPS\MYSimplePendulum\MYSimplePendulum\bin\Debug\MYSimplePendulum.exe
+Z:\Final 7th Codes\CPS\MYSimplePendulum\MYSimplePendulum\bin\Debug\MYSimplePendulum.pdb
+Z:\Final 7th Codes\CPS\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.csprojResolveAssemblyReference.cache
+Z:\Final 7th Codes\CPS\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.Form1.resources
+Z:\Final 7th Codes\CPS\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.Properties.Resources.resources
+Z:\Final 7th Codes\CPS\MYSimplePendulum\MYSimplePendulum\obj\Debug\MYSimplePendulum.csproj.GenerateResource.Cache

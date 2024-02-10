@@ -1,0 +1,24 @@
+D:\CPSLabI_BSE1620\SimpleHarmonicMotion\SimpleHarmonicMotion\bin\Debug\SimpleHarmonicMotion.exe
+D:\CPSLabI_BSE1620\SimpleHarmonicMotion\SimpleHarmonicMotion\bin\Debug\SimpleHarmonicMotion.pdb
+D:\CPSLabI_BSE1620\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\ResolveAssemblyReference.cache
+D:\CPSLabI_BSE1620\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.Form1.resources
+D:\CPSLabI_BSE1620\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.Properties.Resources.resources
+D:\CPSLabI_BSE1620\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.csproj.GenerateResource.Cache
+D:\CPSLabI_BSE1620\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.exe
+D:\CPSLabI_BSE1620\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.pdb
+D:\BSM_SIMLABI\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.exe
+D:\BSM_SIMLABI\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.pdb
+D:\BSM_SIMLABI\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\ResolveAssemblyReference.cache
+D:\BSM_SIMLABI\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.Form1.resources
+D:\BSM_SIMLABI\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.Properties.Resources.resources
+D:\BSM_SIMLABI\SimpleHarmonicMotion\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.csproj.GenerateResource.Cache
+D:\BSM_SIMLABI\SimpleHarmonicMotion\SimpleHarmonicMotion\bin\Debug\SimpleHarmonicMotion.exe
+D:\BSM_SIMLABI\SimpleHarmonicMotion\SimpleHarmonicMotion\bin\Debug\SimpleHarmonicMotion.pdb
+Z:\Final 7th Codes\CPS\SimpleHarmonicMotion__SirTalib\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.exe
+Z:\Final 7th Codes\CPS\SimpleHarmonicMotion__SirTalib\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.pdb
+Z:\Final 7th Codes\CPS\SimpleHarmonicMotion__SirTalib\SimpleHarmonicMotion\bin\Debug\SimpleHarmonicMotion.exe
+Z:\Final 7th Codes\CPS\SimpleHarmonicMotion__SirTalib\SimpleHarmonicMotion\bin\Debug\SimpleHarmonicMotion.pdb
+Z:\Final 7th Codes\CPS\SimpleHarmonicMotion__SirTalib\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.csprojResolveAssemblyReference.cache
+Z:\Final 7th Codes\CPS\SimpleHarmonicMotion__SirTalib\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.Form1.resources
+Z:\Final 7th Codes\CPS\SimpleHarmonicMotion__SirTalib\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.Properties.Resources.resources
+Z:\Final 7th Codes\CPS\SimpleHarmonicMotion__SirTalib\SimpleHarmonicMotion\obj\Debug\SimpleHarmonicMotion.csproj.GenerateResource.Cache

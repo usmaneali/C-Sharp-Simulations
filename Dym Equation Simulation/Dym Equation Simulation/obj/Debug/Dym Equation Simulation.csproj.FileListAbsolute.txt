@@ -1,0 +1,9 @@
+C:\Users\Usman Ali\Desktop\New folder (2)\Dym Equation Simulation\Dym Equation Simulation\bin\Debug\Dym Equation Simulation.exe.config
+C:\Users\Usman Ali\Desktop\New folder (2)\Dym Equation Simulation\Dym Equation Simulation\bin\Debug\Dym Equation Simulation.exe
+C:\Users\Usman Ali\Desktop\New folder (2)\Dym Equation Simulation\Dym Equation Simulation\bin\Debug\Dym Equation Simulation.pdb
+C:\Users\Usman Ali\Desktop\New folder (2)\Dym Equation Simulation\Dym Equation Simulation\obj\Debug\Dym Equation Simulation.csprojResolveAssemblyReference.cache
+C:\Users\Usman Ali\Desktop\New folder (2)\Dym Equation Simulation\Dym Equation Simulation\obj\Debug\Dym_Equation_Simulation.Form1.resources
+C:\Users\Usman Ali\Desktop\New folder (2)\Dym Equation Simulation\Dym Equation Simulation\obj\Debug\Dym_Equation_Simulation.Properties.Resources.resources
+C:\Users\Usman Ali\Desktop\New folder (2)\Dym Equation Simulation\Dym Equation Simulation\obj\Debug\Dym Equation Simulation.csproj.GenerateResource.Cache
+C:\Users\Usman Ali\Desktop\New folder (2)\Dym Equation Simulation\Dym Equation Simulation\obj\Debug\Dym Equation Simulation.exe
+C:\Users\Usman Ali\Desktop\New folder (2)\Dym Equation Simulation\Dym Equation Simulation\obj\Debug\Dym Equation Simulation.pdb

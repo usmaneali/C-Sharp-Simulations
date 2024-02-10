@@ -1,0 +1,26 @@
+D:\CPSLabI_BSE1620\LaplaceSolution\LaplaceSolution\bin\Debug\LaplaceSolution.exe
+D:\CPSLabI_BSE1620\LaplaceSolution\LaplaceSolution\bin\Debug\LaplaceSolution.pdb
+D:\CPSLabI_BSE1620\LaplaceSolution\LaplaceSolution\obj\Debug\ResolveAssemblyReference.cache
+D:\CPSLabI_BSE1620\LaplaceSolution\LaplaceSolution\obj\Debug\LaplaceSolution.Properties.Resources.resources
+D:\CPSLabI_BSE1620\LaplaceSolution\LaplaceSolution\obj\Debug\LaplaceSolution.csproj.GenerateResource.Cache
+D:\CPSLabI_BSE1620\LaplaceSolution\LaplaceSolution\obj\Debug\LaplaceSolution.exe
+D:\CPSLabI_BSE1620\LaplaceSolution\LaplaceSolution\obj\Debug\LaplaceSolution.pdb
+D:\CPSLabI_BSE1620\LaplaceSolution\LaplaceSolution\obj\Debug\LaplaceSolution.Form1.resources
+G:\LaplaceSolution\bin\Debug\LaplaceSolution.exe
+G:\LaplaceSolution\bin\Debug\LaplaceSolution.pdb
+G:\LaplaceSolution\obj\Debug\LaplaceSolution.csprojResolveAssemblyReference.cache
+G:\LaplaceSolution\obj\Debug\LaplaceSolution.Form1.resources
+G:\LaplaceSolution\obj\Debug\LaplaceSolution.Properties.Resources.resources
+G:\LaplaceSolution\obj\Debug\LaplaceSolution.csproj.GenerateResource.Cache
+G:\LaplaceSolution\obj\Debug\LaplaceSolution.exe
+G:\LaplaceSolution\obj\Debug\LaplaceSolution.pdb
+Z:\Laplace Equation\LaplaceSolution\obj\Debug\LaplaceSolution.exe
+Z:\Laplace Equation\LaplaceSolution\obj\Debug\LaplaceSolution.pdb
+F:\Laplace Equation\LaplaceSolution\obj\Debug\LaplaceSolution.csprojResolveAssemblyReference.cache
+F:\Laplace Equation\LaplaceSolution\obj\Debug\LaplaceSolution.Form1.resources
+F:\Laplace Equation\LaplaceSolution\obj\Debug\LaplaceSolution.Properties.Resources.resources
+F:\Laplace Equation\LaplaceSolution\obj\Debug\LaplaceSolution.csproj.GenerateResource.Cache
+F:\Laplace Equation\LaplaceSolution\obj\Debug\LaplaceSolution.exe
+F:\Laplace Equation\LaplaceSolution\obj\Debug\LaplaceSolution.pdb
+Z:\Final 7th Codes\CPS\Laplace Equation\LaplaceSolution\obj\Debug\LaplaceSolution.exe
+Z:\Final 7th Codes\CPS\Laplace Equation\LaplaceSolution\obj\Debug\LaplaceSolution.pdb
